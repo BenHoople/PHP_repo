@@ -1,0 +1,8 @@
+h2.screen{
+    text-align: center;
+}
+input.centered{
+    color: brown !important;
+    position: relative;
+    position: center;
+}
